@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: SMUNY
 header-img: img/home-bg.png
 email: sharonymun@gmail.com
 copyright_name: smuny
 description: > # this means to ignore newlines until "baseurl:"
-  
+  God breathed
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  smuny
