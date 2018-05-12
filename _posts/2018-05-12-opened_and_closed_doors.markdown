@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Opened and Closed Doors"
-date:       2018-05-12 23:05:53 +0000
+date:       2018-05-12 19:05:53 -0400
 permalink:  opened_and_closed_doors
 ---
 
